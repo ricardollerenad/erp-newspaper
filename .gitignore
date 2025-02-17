@@ -11,6 +11,10 @@
 npm-debug.log
 yarn-error.log
 
+#Key
+key1
+key1.pub
+
 # IDEs and editors
 .idea/
 .project
